@@ -1,0 +1,218 @@
+iso3,pais,region,ingreso,Esperanza de vida,Mortalidad <5 años,Mortalidad materna,Gasto en salud (% PIB),Gasto de bolsillo (%),"Médicos x 1,000 hab.","Camas x 1,000 hab.",Vacuna DPT (%),"Tuberculosis x 100,000",Muerte por ENT 30-70 (%),Diabetes (%)
+ABW,Aruba,América Latina y Caribe,Alto,76.5,,,,,,,,8.3,,4.6
+AFG,Afganistán,"Medio Oriente, N. África, Afganistán y Pakistán",Bajo,66.289,53.0,521.0,14.9857626,77.1395874,0.317,0.35,59.0,203.0,32.7,11.7
+AGO,Angola,África Subsahariana,Medio-bajo,64.805,49.0,183.0,2.54692864,32.54667664,0.244,0.75,64.0,373.0,24.7,4.9
+ALB,Albania,Europa y Asia Central,Medio-alto,79.776,9.2,7.0,7.05240345,48.27462769,1.879,2.9,97.0,15.0,10.0,10.6
+AND,Andorra,Europa y Asia Central,Alto,84.188,2.5,11.0,7.69928026,11.1459446,5.068,,98.0,4.9,,10.1
+ARE,Emiratos Árabes Unidos,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,83.069,4.8,3.0,4.97095108,9.66616821,2.992,1.87,96.0,0.63,11.6,20.7
+ARG,Argentina,América Latina y Caribe,Medio-alto,77.543,9.5,33.0,10.2695179,24.46961784,5.106,3.36,75.0,44.0,13.4,14.0
+ARM,Armenia,Europa y Asia Central,Medio-alto,78.319512195122,9.6,19.0,9.32119179,80.47196198,3.36,4.24,94.0,19.0,20.6,7.7
+ASM,Samoa Americana,Asia Oriental y Pacífico,Alto,72.992,,,,,,,,3.7,,
+ATG,Antigua y Barbuda,América Latina y Caribe,Alto,77.766,9.1,35.0,3.91348195,20.80756378,2.917,3.42,99.0,1.1,12.1,11.6
+AUS,Australia,Asia Oriental y Pacífico,Alto,83.0512195121951,3.6,2.0,10.39852047,15.84897614,4.086,3.82,93.0,6.9,8.3,7.4
+AUT,Austria,Europa y Asia Central,Alto,81.9951219512195,3.3,6.0,11.8325634,16.46478271,5.515,6.7,85.0,4.9,9.9,5.4
+AZE,Azerbaiyán,Europa y Asia Central,Medio-alto,74.576,17.9,18.0,4.27113533,64.63206482,3.185,3.68,51.0,64.0,17.4,10.2
+BDI,Burundi,África Subsahariana,Bajo,63.818,47.1,392.0,9.09471226,24.48983002,0.078,,89.0,83.0,24.8,4.3
+BEL,Bélgica,Europa y Asia Central,Alto,82.3,3.7,4.0,10.80371571,21.50983047,3.574,5.42,97.0,2.7,9.2,5.9
+BEN,Benin,África Subsahariana,Medio-bajo,60.961,74.7,518.0,3.33732462,42.40531921,0.216,0.43,63.0,40.0,20.8,8.1
+BFA,Burkina Faso,África Subsahariana,Bajo,61.292,74.9,242.0,7.79943228,43.82195663,0.148,0.2,91.0,57.0,23.4,4.5
+BGD,Bangladesh,Asia del Sur,Medio-bajo,74.93,30.5,115.0,2.17014575,79.30711365,0.722,0.92,97.0,221.0,18.1,13.2
+BGR,Bulgaria,Europa y Asia Central,Alto,75.7609756097561,5.7,6.0,7.91853094,35.50430679,4.328,8.2,94.0,12.0,25.6,7.4
+BHR,Bahrein,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,81.423,8.8,17.0,3.99562383,28.65578461,0.741,1.84,96.0,12.0,14.8,22.1
+BHS,Bahamas,América Latina y Caribe,Alto,74.71,12.4,76.0,6.30260801,27.48377991,1.895,2.17,90.0,18.0,20.4,8.9
+BIH,Bosnia y Herzegovina,Europa y Asia Central,Medio-alto,78.044,6.9,6.0,8.9216938,30.96058273,2.584,2.35,79.0,21.0,17.2,10.3
+BLR,Belarús,Europa y Asia Central,Medio-alto,74.3653414634147,2.3,1.0,7.08167362,28.48183441,4.717,9.77,98.0,17.0,23.8,5.1
+BLZ,Belice,América Latina y Caribe,Medio-alto,73.739,12.7,67.0,4.14735794,26.78139114,1.086,1.0,88.0,34.0,15.4,14.1
+BMU,Bermudas,Norteamérica,Alto,82.49,,,,,,,,3.1,,13.4
+BOL,Bolivia,América Latina y Caribe,Medio-bajo,68.739,15.7,146.0,6.91864729,27.31554413,1.284,1.49,59.0,114.0,19.9,3.4
+BRA,Brasil,América Latina y Caribe,Medio-alto,76.023,14.2,67.0,9.73092747,26.23070717,2.357,2.52,91.0,49.0,14.5,10.6
+BRB,Barbados,América Latina y Caribe,Alto,76.332,9.8,35.0,5.40463829,49.49338913,2.958,6.4,94.0,1.0,14.0,13.2
+BRN,Brunei Darussalam,Asia Oriental y Pacífico,Alto,75.501,9.9,36.0,2.2286067,7.41179371,1.886,3.58,99.0,65.0,14.9,13.7
+BTN,Bhután,Asia del Sur,Medio-bajo,73.262,17.2,47.0,4.41551638,25.46281624,0.553,2.16,98.0,191.0,15.9,12.0
+BWA,Botswana,África Subsahariana,Medio-alto,69.293,33.3,155.0,6.25574684,4.25866175,0.379,2.36,95.0,143.0,19.0,4.6
+CAF,República Centroafricana,África Subsahariana,Bajo,57.671,89.7,692.0,10.65553188,45.02304077,0.074,,42.0,419.0,30.8,7.6
+CAN,Canadá,Norteamérica,Alto,82.1080487804878,5.4,12.0,11.3095665,15.27733707,2.819,2.54,92.0,6.2,9.7,7.7
+CHE,Suiza,Europa y Asia Central,Alto,84.4073170731707,3.9,5.0,11.69096088,22.02737427,4.477,4.38,96.0,5.4,7.5,5.3
+CHI,Islas del Canal,Europa y Asia Central,Alto,81.2,,,,,,,,,,
+CHL,Chile,América Latina y Caribe,Alto,81.359,6.8,10.0,10.53092575,39.14786911,3.334,1.94,95.0,19.0,9.4,12.2
+CHN,China,Asia Oriental y Pacífico,Medio-alto,78.017,5.7,16.0,5.94388866,32.17354584,3.112,5.63,97.0,49.0,15.9,11.9
+CIV,Côte d'Ivoire,África Subsahariana,Medio-bajo,62.11,64.5,359.0,3.43218303,31.99314499,0.166,,77.0,99.0,22.7,5.0
+CMR,Camerún,África Subsahariana,Medio-bajo,63.968,64.8,258.0,4.5545516,67.65119171,0.136,2.65,77.0,132.0,24.3,6.9
+COD,"Congo, República Democrática del",África Subsahariana,Bajo,62.074,89.7,427.0,3.68495083,38.00354767,0.208,,65.0,377.0,25.1,7.7
+COG,"Congo, República del",África Subsahariana,Medio-bajo,66.001,39.1,241.0,3.29744148,27.97068977,0.173,,78.0,302.0,21.2,8.1
+COL,Colombia,América Latina y Caribe,Medio-alto,77.913,11.5,59.0,8.14139366,14.73741817,2.535,1.7,89.0,49.0,10.3,8.4
+COM,Comoras,África Subsahariana,Medio-bajo,67.023,39.0,179.0,6.55212021,56.56671524,0.424,,75.0,22.0,20.2,10.8
+CPV,Cabo Verde,África Subsahariana,Medio-alto,76.224,11.1,40.0,5.84791613,25.73987579,0.73,2.21,93.0,47.0,17.2,6.8
+CRI,Costa Rica,América Latina y Caribe,Alto,80.996,10.4,24.0,6.8663702,24.12618256,2.687,1.14,99.0,9.3,9.9,9.8
+CUB,Cuba,América Latina y Caribe,Medio-alto,78.264,8.6,35.0,9.38383102,16.58238792,9.542,4.33,99.0,11.0,17.6,9.4
+CUW,Curacao,América Latina y Caribe,Alto,76.989,,,,,,,,2.8,,13.4
+CYM,Islas Caimán,América Latina y Caribe,Alto,80.54,,,,,,,,4.9,,11.1
+CYP,Chipre,Europa y Asia Central,Alto,81.821,5.0,14.0,8.11912918,17.9429245,3.556,2.15,94.0,5.5,8.5,10.0
+CZE,República Checa,Europa y Asia Central,Alto,79.9780487804878,2.6,3.0,8.50710297,14.06390572,4.352,6.54,86.0,4.9,14.2,7.6
+DEU,Alemania,Europa y Asia Central,Alto,80.7926829268293,3.7,4.0,12.26655293,10.7067318,4.534,7.55,89.0,5.4,11.6,7.8
+DJI,Djibouti,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,66.202,48.9,162.0,2.28316021,28.84145355,0.211,1.4,77.0,495.0,20.6,6.5
+DMA,Dominica,América Latina y Caribe,Medio-alto,71.294,35.7,36.0,5.00757647,29.32637405,1.158,3.97,90.0,4.5,,12.9
+DNK,Dinamarca,Europa y Asia Central,Alto,82.2536585365854,4.0,4.0,9.38812923,13.86858845,4.498,2.43,96.0,3.2,10.7,6.4
+DOM,República Dominicana,América Latina y Caribe,Medio-alto,73.868,30.6,124.0,4.59880495,25.05566978,2.426,0.75,87.0,51.0,17.4,17.6
+DZA,Argelia,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-alto,76.475,21.6,62.0,4.35082531,45.00216675,1.66,1.61,92.0,54.0,13.3,17.5
+ECU,Ecuador,América Latina y Caribe,Medio-alto,77.579,12.9,55.0,7.56167889,30.88848877,2.313,1.32,70.0,66.0,13.2,4.9
+EGY,"Egipto, República Árabe de","Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,71.806,22.4,17.0,4.88449335,57.19506836,0.671,1.06,97.0,10.0,26.0,22.4
+ERI,Eritrea,África Subsahariana,Bajo,68.893,34.3,291.0,3.6837678,48.44565201,0.088,1.02,95.0,115.0,27.3,4.4
+ESP,España,Europa y Asia Central,Alto,83.8878048780488,3.2,3.0,9.2206583,20.85539818,4.294,2.91,94.0,7.9,9.3,9.7
+EST,Estonia,Europa y Asia Central,Alto,79.2951219512195,2.0,5.0,7.83648062,21.38176537,3.469,4.13,81.0,8.2,15.5,6.9
+ETH,Etiopía,África Subsahariana,Bajo,67.603,44.5,195.0,2.80310345,46.26859283,0.143,0.33,73.0,141.0,16.8,4.4
+FIN,Finlandia,Europa y Asia Central,Alto,82.3365853658537,2.4,8.0,10.47389507,14.09493542,3.609,2.61,91.0,3.7,9.6,6.9
+FJI,Fiji,Asia Oriental y Pacífico,Medio-alto,67.463,29.1,30.0,3.61524153,8.31420898,0.813,1.89,94.0,104.0,37.9,16.6
+FRA,Francia,Europa y Asia Central,Alto,82.9804878048781,4.3,7.0,11.53530598,9.22742558,3.281,5.65,96.0,7.8,10.2,6.5
+FRO,Islas Feroe,Europa y Asia Central,Alto,83.0832463414634,,,,,,,,,,5.3
+FSM,Micronesia (Estados Federados de),Asia Oriental y Pacífico,Medio-alto,67.357,22.4,129.0,12.88087559,2.58105636,0.974,,76.0,264.0,40.5,19.2
+GAB,Gabón,África Subsahariana,Medio-alto,68.511,32.6,233.0,3.13430715,17.27153969,0.521,,61.0,371.0,18.1,8.5
+GBR,Reino Unido,Europa y Asia Central,Alto,81.3868536585366,4.7,8.0,11.133358,14.55540943,3.301,2.42,92.0,9.7,11.0,7.4
+GEO,Georgia,Europa y Asia Central,Medio-alto,74.657,8.6,20.0,6.85758877,58.75926208,5.642,4.04,86.0,45.0,22.1,6.7
+GHA,Ghana,África Subsahariana,Medio-bajo,65.695,35.9,234.0,2.94686937,26.67723274,0.266,0.69,95.0,126.0,22.2,2.7
+GIB,Gibraltar,Europa y Asia Central,Alto,83.63,,,,,,,,,,
+GIN,Guinea,África Subsahariana,Medio-bajo,60.904,92.1,494.0,3.69442987,54.41574097,0.21,,63.0,178.0,23.6,4.6
+GMB,Gambia,África Subsahariana,Bajo,66.057,42.4,354.0,2.89250112,33.7826767,0.09,1.11,80.0,138.0,21.8,5.5
+GNB,Guinea-Bissau,África Subsahariana,Bajo,64.254,67.3,505.0,8.82204819,61.5587883,0.252,,68.0,176.0,25.3,4.8
+GNQ,Guinea Ecuatorial,África Subsahariana,Medio-alto,63.906,68.0,174.0,3.49941635,65.98317719,0.153,,68.0,199.0,20.3,8.2
+GRC,Grecia,Europa y Asia Central,Alto,81.8390243902439,3.8,5.0,8.39367008,34.30307007,6.576,4.27,95.0,3.6,12.0,8.0
+GRD,Granada,América Latina y Caribe,Medio-alto,75.367,18.0,48.0,4.65330839,48.48131943,1.383,3.01,93.0,1.7,17.1,11.3
+GRL,Groenlandia,Europa y Asia Central,Alto,70.2734146341463,,,,,,,,139.0,,4.3
+GTM,Guatemala,América Latina y Caribe,Medio-alto,72.746,20.5,94.0,6.80241346,57.18184662,1.281,0.45,81.0,28.0,14.6,13.2
+GUM,Guam,Asia Oriental y Pacífico,Alto,77.422,,,,,,,,55.0,,20.3
+GUY,Guyana,América Latina y Caribe,Alto,70.319,25.2,75.0,2.46673751,26.32743073,1.387,3.24,98.0,67.0,25.4,16.4
+HKG,"Hong Kong, Región Administrativa Especial",Asia Oriental y Pacífico,Alto,85.3926829268293,,,,,,,,66.0,,8.2
+HND,Honduras,América Latina y Caribe,Medio-bajo,73.044,15.0,47.0,7.70976162,53.06166458,0.489,0.53,75.0,38.0,17.8,5.0
+HRV,Croacia,Europa y Asia Central,Alto,78.9292682926829,5.6,3.0,7.14699411,9.37740326,3.909,5.6,92.0,6.6,15.9,10.5
+HTI,Haití,América Latina y Caribe,Medio-bajo,65.119,52.8,328.0,3.19156528,52.40410995,0.292,4.9,60.0,175.0,31.6,8.5
+HUN,Hungría,Europa y Asia Central,Alto,76.7243902439025,3.7,12.0,6.36868954,23.05996895,3.456,6.63,99.0,5.6,21.7,8.3
+IDN,Indonesia,Asia Oriental y Pacífico,Medio-alto,71.288,17.7,140.0,2.70239949,31.0836544,0.524,1.37,78.0,382.0,21.9,11.3
+IMN,Isla de Man,Europa y Asia Central,Alto,81.091,,,,,,,,,,7.5
+IND,India,Asia del Sur,Medio-bajo,72.235,26.6,80.0,3.33944035,43.88510513,0.723,1.59,94.0,187.0,23.6,10.5
+IRL,Irlanda,Europa y Asia Central,Alto,83.009756097561,3.9,4.0,6.85410833,10.60706902,3.875,2.96,92.0,6.2,9.6,3.6
+IRN,"Irán, República Islámica del","Medio Oriente, N. África, Afganistán y Pakistán",Medio-alto,77.854,11.3,16.0,6.02542305,43.14528656,1.811,1.85,98.0,10.0,13.9,9.0
+IRQ,Iraq,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-alto,72.424,21.8,66.0,5.53275251,53.9823761,1.022,1.06,90.0,21.0,22.7,13.4
+ISL,Islandia,Europa y Asia Central,Alto,82.809756097561,2.8,3.0,8.98358727,14.87985802,4.373,2.83,94.0,3.0,8.5,6.9
+ISR,Israel,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,83.1975609756098,3.3,2.0,7.09822369,20.48583984,3.797,3.14,98.0,2.4,7.6,10.1
+ITA,Italia,Europa y Asia Central,Alto,83.9512195121951,2.7,6.0,8.44437313,22.30979538,4.191,3.06,94.0,5.0,9.1,7.7
+JAM,Jamaica,América Latina y Caribe,Medio-alto,71.606,17.8,130.0,7.60493946,20.2454052,0.46,1.65,99.0,2.3,20.2,12.5
+JOR,Jordania,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-alto,77.981,12.9,31.0,7.66000605,34.4679451,2.851,1.41,96.0,3.5,11.6,20.5
+JPN,Japón,Asia Oriental y Pacífico,Alto,84.0363414634146,2.4,3.0,10.73979473,12.23568153,2.649,12.59,99.0,9.8,8.0,8.1
+KAZ,Kazajstán,Europa y Asia Central,Medio-alto,74.531,9.4,10.0,3.76701546,27.64227867,3.754,6.54,98.0,45.0,21.2,6.8
+KEN,Kenya,África Subsahariana,Medio-bajo,63.834,38.8,149.0,4.35172892,24.24565315,0.289,1.33,91.0,207.0,18.0,3.1
+KGZ,Kirguistán,Europa y Asia Central,Medio-bajo,72.4,16.8,42.0,4.50344467,42.26472855,1.568,3.73,85.0,128.0,18.8,7.6
+KHM,Camboya,Asia Oriental y Pacífico,Medio-bajo,70.817,18.4,137.0,4.61706829,60.60118866,0.211,0.73,83.0,272.0,22.6,7.5
+KIR,Kiribati,Asia Oriental y Pacífico,Medio-bajo,66.6,53.1,80.0,10.94525623,2.9085722,,1.86,94.0,945.0,44.1,24.6
+KNA,Saint Kitts y Nevis,América Latina y Caribe,Alto,72.281,15.9,74.0,5.73595428,41.80017853,3.085,3.98,97.0,1.1,,13.8
+KOR,"Corea, República de",Asia Oriental y Pacífico,Alto,83.6292682926829,2.8,4.0,8.67656994,33.73815536,2.61,12.81,97.0,35.0,6.9,9.6
+KWT,Kuwait,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,84.580487804878,8.1,8.0,4.96311998,10.00349617,2.273,2.33,99.0,10.0,9.3,25.6
+LAO,República Democrática Popular Lao,Asia Oriental y Pacífico,Medio-bajo,69.225,29.4,112.0,1.32651615,44.84078598,0.331,1.71,67.0,127.0,26.5,6.7
+LBN,Líbano,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,77.945,17.6,15.0,5.57497263,29.70126343,2.68,2.73,49.0,13.0,11.9,12.3
+LBR,Liberia,África Subsahariana,Bajo,62.324,86.4,628.0,13.00574875,63.23887634,0.178,1.59,83.0,207.0,22.0,9.2
+LBY,Libia,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-alto,71.121,9.8,59.0,7.80515862,19.17657852,2.042,3.5,86.0,63.0,19.8,15.8
+LCA,Santa Lucía,América Latina y Caribe,Medio-alto,72.846,17.2,44.0,4.7298274,37.14485931,4.234,1.09,99.0,0.56,15.5,11.4
+LIE,Liechtenstein,Europa y Asia Central,Alto,84.2,,,5.71460724,19.7171917,,,,,,7.2
+LKA,Sri Lanka,Asia del Sur,Medio-alto,77.672,5.9,18.0,3.68313766,54.81069946,1.136,3.93,97.0,59.0,13.9,10.2
+LSO,Lesotho,África Subsahariana,Medio-bajo,57.798,60.0,478.0,12.61182117,13.19708443,0.235,,86.0,548.0,36.3,6.2
+LTU,Lituania,Europa y Asia Central,Alto,77.1951219512195,3.4,8.0,7.59519005,31.42526817,4.466,5.71,89.0,31.0,19.8,7.5
+LUX,Luxemburgo,Europa y Asia Central,Alto,83.1951219512195,2.2,11.0,5.89136267,8.50457287,2.984,3.95,99.0,7.5,7.8,5.8
+LVA,Letonia,Europa y Asia Central,Alto,76.4292682926829,2.5,19.0,7.27783823,35.05759811,3.398,4.95,97.0,21.0,22.7,7.1
+MAC,"Región Administrativa Especial de Macao, China",Asia Oriental y Pacífico,Alto,83.3317073170732,,,,,,,,59.0,,8.1
+MAF,Isla de San Martín (parte francesa),América Latina y Caribe,Alto,80.438,,,,,,,,,,
+MAR,Marruecos,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,75.493,15.7,70.0,6.06396198,37.25432968,0.74,0.73,96.0,98.0,22.0,11.9
+MCO,Mónaco,Europa y Asia Central,Alto,86.497,2.7,5.0,3.11959291,8.45358086,8.609,,99.0,0.82,,6.9
+MDA,República de Moldova,Europa y Asia Central,Medio-alto,71.332,16.5,19.0,6.7359705,27.468853,4.016,5.54,86.0,64.0,24.7,6.3
+MDG,Madagascar,África Subsahariana,Bajo,63.835,62.4,445.0,3.42822957,27.42209625,0.172,,60.0,224.0,25.9,4.6
+MDV,Maldivas,Asia del Sur,Medio-alto,81.285,5.4,32.0,9.24973583,18.04885292,2.235,4.56,99.0,40.0,9.0,9.5
+MEX,México,América Latina y Caribe,Medio-alto,75.264,13.1,42.0,5.50398684,41.23572922,2.588,1.01,78.0,28.0,16.3,16.4
+MHL,Islas Marshall,Asia Oriental y Pacífico,Medio-alto,67.075,26.7,155.0,13.40528965,1.05294764,,,85.0,411.0,,25.7
+MKD,Macedonia del Norte,Europa y Asia Central,Medio-alto,76.6165853658537,2.8,3.0,7.42730284,39.57205582,2.944,4.74,89.0,11.0,19.6,7.4
+MLI,Malí,África Subsahariana,Bajo,60.675,73.0,367.0,3.81316996,47.22994995,0.188,0.25,82.0,51.0,23.0,4.8
+MLT,Malta,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,82.9560975609756,5.3,8.0,8.84301376,30.92565918,4.513,4.09,97.0,15.0,9.8,10.0
+MMR,Myanmar,Asia Oriental y Pacífico,Medio-bajo,67.095,36.9,185.0,4.45748425,71.12589264,0.757,1.07,71.0,482.0,24.0,6.7
+MNE,Montenegro,Europa y Asia Central,Medio-alto,77.890243902439,2.4,6.0,9.6549921,26.33176041,2.783,3.82,81.0,16.0,18.0,10.7
+MNG,Mongolia,Asia Oriental y Pacífico,Medio-alto,72.3980487804878,13.4,41.0,6.07207489,48.79919434,4.13,8.58,96.0,446.0,26.3,10.3
+MNP,Mariana,Asia Oriental y Pacífico,Alto,78.947,,,,,,,,35.0,,
+MOZ,Mozambique,África Subsahariana,Bajo,63.797,59.4,99.0,8.50126553,10.37066555,0.175,0.74,70.0,361.0,26.6,3.0
+MRT,Mauritania,África Subsahariana,Medio-bajo,68.713,36.9,381.0,4.34333467,43.7736702,0.261,,86.0,65.0,18.7,5.2
+MUS,Mauricio,África Subsahariana,Medio-alto,73.7890243902439,15.4,66.0,5.56544495,45.2427063,1.436,3.8,93.0,13.0,21.7,20.1
+MWI,Malawi,África Subsahariana,Bajo,67.561,48.8,225.0,6.53459597,12.00286865,0.054,,91.0,113.0,24.9,5.7
+MYS,Malasia,Asia Oriental y Pacífico,Medio-alto,76.821,8.3,26.0,3.95760036,37.09352112,2.341,1.96,93.0,96.0,19.9,21.1
+NAM,Namibia,África Subsahariana,Medio-bajo,67.516,39.5,139.0,9.48251629,7.49171019,0.553,,74.0,422.0,23.1,5.3
+NCL,Nueva Caledonia,Asia Oriental y Pacífico,Alto,78.921,,,,,,,,18.0,,22.0
+NER,Níger,África Subsahariana,Bajo,61.433,110.7,350.0,4.04895782,51.48022842,0.038,0.28,86.0,86.0,20.2,4.1
+NGA,Nigeria,África Subsahariana,Medio-bajo,54.635,115.6,993.0,4.19086456,71.90481567,0.38,,67.0,219.0,17.7,3.0
+NIC,Nicaragua,América Latina y Caribe,Medio-bajo,75.1,11.2,60.0,8.29879284,37.6333313,0.682,0.97,89.0,43.0,12.6,10.4
+NLD,Países Bajos,Europa y Asia Central,Alto,81.9658536585366,3.9,4.0,10.00551128,11.78772259,3.876,2.42,91.0,4.7,9.9,5.0
+NOR,Noruega,Europa y Asia Central,Alto,83.1609756097561,2.5,1.0,9.42925453,13.68724823,4.975,3.3,97.0,3.3,7.8,4.8
+NPL,Nepal,Asia del Sur,Medio-bajo,70.636,25.1,142.0,6.15843678,59.38827515,1.011,0.54,97.0,227.0,19.4,7.7
+NRU,Naoero,Asia Oriental y Pacífico,Alto,62.279,8.3,273.0,18.21076012,0.73174924,1.273,,99.0,161.0,,21.8
+NZL,Nueva Zelandia,Asia Oriental y Pacífico,Alto,82.009756097561,4.7,7.0,10.06186676,12.68764019,3.611,2.51,89.0,7.9,10.3,6.7
+OMN,Omán,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,80.246,10.3,13.0,3.49047446,6.31094599,1.992,0.99,99.0,11.0,14.6,17.0
+PAK,Pakistán,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,67.799,56.0,155.0,2.51988316,52.93231964,1.16,0.63,87.0,266.0,25.5,31.4
+PAN,Panamá,América Latina y Caribe,Alto,79.775,15.3,37.0,8.33022976,40.45503235,1.625,1.95,72.0,63.0,10.9,11.1
+PER,Perú,América Latina y Caribe,Medio-alto,77.941,12.9,51.0,5.63786411,26.98286247,1.688,1.56,80.0,139.0,12.3,6.4
+PHL,Filipinas,Asia Oriental y Pacífico,Medio-alto,69.946,26.5,84.0,5.10122538,44.36006165,0.792,0.97,71.0,625.0,31.9,7.5
+PLW,Palau,Asia Oriental y Pacífico,Alto,69.383,21.4,89.0,10.85468197,12.10223293,1.808,,97.0,28.0,,19.3
+PNG,Papua Nueva Guinea,Asia Oriental y Pacífico,Medio-bajo,66.256,39.4,189.0,2.87081432,8.55412769,0.061,0.62,42.0,664.0,28.5,14.1
+POL,Polonia,Europa y Asia Central,Alto,78.409756097561,4.2,2.0,8.06380177,16.20527458,4.031,6.04,94.0,11.0,17.0,8.1
+PRI,Puerto Rico (US),América Latina y Caribe,Alto,81.902,,11.0,,,,,,0.55,10.1,10.9
+PRK,"Corea, República Popular Democrática de",Asia Oriental y Pacífico,Bajo,73.743,16.7,67.0,,,3.628,12.8,99.0,,23.7,9.9
+PRT,Portugal,Europa y Asia Central,Alto,82.3829268292683,3.2,15.0,10.24061108,28.19350624,5.851,3.48,99.0,15.0,10.5,10.5
+PRY,Paraguay,América Latina y Caribe,Medio-alto,73.982,16.3,58.0,8.35731316,36.32289886,3.893,1.04,80.0,81.0,16.1,9.4
+PSE,Ribera Occidental y Gaza,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,69.213,37.9,16.0,10.73343945,42.07169342,2.168,1.3,88.0,0.29,18.3,15.5
+PYF,Polinesia Francesa,Asia Oriental y Pacífico,Alto,84.192,,,,,,,,24.0,,22.8
+QAT,Qatar,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,82.522,5.9,4.0,2.52358818,7.42945814,3.022,1.25,96.0,37.0,12.1,24.6
+ROU,Rumania,Europa y Asia Central,Alto,76.4585365853659,7.3,12.0,5.70901489,22.96146011,3.625,7.23,79.0,60.0,21.5,7.5
+RUS,Federación de Rusia,Europa y Asia Central,Alto,73.4404878048781,5.2,9.0,7.04438496,28.39422226,5.111,6.81,97.0,34.0,22.4,5.9
+RWA,Rwanda,África Subsahariana,Bajo,68.017,37.7,229.0,5.12708998,4.0999999,0.09,0.75,98.0,62.0,20.0,2.1
+SAU,Arabia Saudita,"Medio Oriente, N. África, Afganistán y Pakistán",Alto,78.982,6.0,7.0,5.68722248,14.11603928,3.406,2.41,97.0,8.4,13.6,23.1
+SDN,Sudán,África Subsahariana,Bajo,66.521,61.6,256.0,2.85165739,57.36631393,0.25,0.66,39.0,47.0,21.2,19.0
+SEN,Senegal,África Subsahariana,Medio-bajo,68.924,36.5,237.0,4.32314825,44.32556534,0.109,0.71,91.0,132.0,21.4,3.8
+SGP,Singapur,Asia Oriental y Pacífico,Alto,83.3463414634146,2.7,6.0,4.49163246,25.41850281,2.834,2.81,97.0,43.0,10.3,11.4
+SLB,Islas Salomón,Asia Oriental y Pacífico,Medio-bajo,70.694,20.0,123.0,5.36366177,3.16049337,0.238,,87.0,123.0,40.6,12.0
+SLE,Sierra Leona,África Subsahariana,Bajo,61.964,90.5,354.0,4.71883011,54.4692421,0.134,,91.0,372.0,23.9,4.8
+SLV,El Salvador,América Latina y Caribe,Medio-alto,72.302,10.0,39.0,9.28738594,32.4943924,1.616,1.21,95.0,116.0,12.6,12.7
+SMR,San Marino,Europa y Asia Central,Alto,85.817,1.3,8.0,6.60829115,13.09178734,4.629,,88.0,0.0,,8.6
+SOM,República Federal de Somalia,África Subsahariana,Bajo,58.967,101.1,563.0,3.74413586,30.77948952,,0.87,70.0,151.0,27.6,5.8
+SRB,Serbia,Europa y Asia Central,Medio-alto,75.9682926829268,5.4,11.0,8.03133774,32.13853073,3.099,5.78,95.0,8.7,20.7,10.5
+SSD,Sudán del Sur,África Subsahariana,Bajo,57.738,96.7,692.0,11.61002254,27.14476204,0.041,,73.0,320.0,22.4,4.6
+STP,Santo Tomé y Príncipe,África Subsahariana,Medio-bajo,69.905,13.6,75.0,5.77292156,16.66314888,0.464,2.91,87.0,87.0,19.5,12.1
+SUR,Suriname,América Latina y Caribe,Medio-alto,73.757,15.8,84.0,5.40666008,19.71665573,1.355,2.87,69.0,34.0,18.7,13.8
+SVK,República Eslovaca,Europa y Asia Central,Alto,78.3707317073171,6.3,4.0,7.35262203,20.15309143,3.697,5.57,96.0,3.3,16.6,7.1
+SVN,Eslovenia,Europa y Asia Central,Alto,82.2853658536585,2.3,3.0,9.87630939,11.7449913,3.367,4.11,90.0,2.6,11.6,7.0
+SWE,Suecia,Europa y Asia Central,Alto,84.0634146341463,2.4,4.0,11.21510124,13.3813858,4.408,1.9,96.0,3.3,7.9,5.8
+SWZ,Eswatini,África Subsahariana,Medio-bajo,64.264,45.1,118.0,7.49763966,11.01838779,0.557,,84.0,319.0,32.3,7.9
+SXM,Sint Maarten (Dutch part),América Latina y Caribe,Alto,76.528,,,,,,,,6.9,,
+SYC,Seychelles,África Subsahariana,Alto,76.2951219512195,14.0,42.0,4.48238087,27.95942497,6.598,2.63,94.0,17.0,15.6,9.3
+SYR,República Árabe Siria,"Medio Oriente, N. África, Afganistán y Pakistán",Bajo,72.56,18.4,20.0,2.70998812,72.40081787,1.521,1.43,73.0,23.0,21.3,19.0
+TCA,Islas Turcas y Caicos,América Latina y Caribe,Alto,78.181,4.7,,,,,,,8.6,,
+TCD,Chad,África Subsahariana,Bajo,55.238,97.3,748.0,4.99707747,51.67914963,0.085,0.15,68.0,118.0,23.4,7.3
+TGO,Togo,África Subsahariana,Medio-bajo,62.935,56.1,349.0,6.10829544,64.34121704,0.08,0.33,90.0,48.0,25.4,4.8
+THA,Tailandia,Asia Oriental y Pacífico,Medio-alto,76.564,9.0,34.0,4.53787661,9.93404865,0.541,2.39,92.0,146.0,14.5,10.2
+TJK,Tayikistán,Europa y Asia Central,Medio-bajo,71.927,28.1,14.0,7.43789911,62.36102676,1.87,4.04,97.0,75.0,18.1,8.0
+TKM,Turkmenistán,Europa y Asia Central,Medio-alto,70.201,39.0,5.0,5.49789095,77.39328003,1.93,3.6,98.0,40.0,25.7,7.1
+TLS,Timor-Leste,Asia Oriental y Pacífico,Medio-bajo,67.904,47.6,192.0,9.59779453,6.99333382,0.752,0.38,83.0,496.0,20.1,3.2
+TON,Tonga,Asia Oriental y Pacífico,Medio-alto,73.07,9.5,67.0,7.36037779,5.86377478,1.014,,99.0,1.9,26.9,19.6
+TTO,Trinidad y Tobago,América Latina y Caribe,Alto,73.617,18.8,54.0,7.52568626,45.27397919,4.157,2.37,92.0,27.0,20.3,12.4
+TUN,Túnez,"Medio Oriente, N. África, Afganistán y Pakistán",Medio-bajo,76.711,12.1,36.0,7.98537874,37.93983841,1.315,1.82,97.0,39.0,13.0,16.0
+TUR,Turquía,Europa y Asia Central,Medio-alto,77.421,9.6,15.0,4.27524424,19.04723167,2.236,3.05,99.0,13.0,15.4,16.5
+TUV,Tuvalu,Asia Oriental y Pacífico,Medio-alto,67.259,19.2,170.0,27.08968544,0.04458594,1.346,,94.0,223.0,,19.0
+TZA,Tanzanía,África Subsahariana,Medio-bajo,67.212,37.0,276.0,3.05201221,27.93128014,0.134,0.84,83.0,172.0,18.8,9.8
+UGA,Uganda,África Subsahariana,Bajo,68.487,48.7,170.0,4.23600149,32.17179489,0.191,,91.0,197.0,21.5,2.2
+UKR,Ucrania,Europa y Asia Central,Medio-alto,74.692,7.9,15.0,8.2027483,45.29367447,3.531,6.14,88.0,86.0,24.8,6.0
+URY,Uruguay,América Latina y Caribe,Alto,78.287,7.4,15.0,9.01887608,17.09811211,4.674,2.44,94.0,47.0,17.4,7.8
+USA,Estados Unidos,Norteamérica,Alto,78.890243902439,6.5,17.0,16.69414902,10.92723846,3.681,2.68,94.0,3.2,13.7,13.7
+UZB,Uzbekistán,Europa y Asia Central,Medio-bajo,72.528,13.4,26.0,6.74312878,64.05923462,2.805,4.89,90.0,51.0,24.6,7.5
+VCT,San Vicente y las Granadinas,América Latina y Caribe,Medio-alto,71.382,11.3,56.0,4.43696308,26.57362938,,3.21,99.0,4.6,23.6,8.6
+VEN,Venezuela,América Latina y Caribe,Medio-bajo,72.673,24.2,227.0,3.77611423,29.6867485,1.664,0.99,62.0,46.0,18.7,8.6
+VGB,Islas Vírgenes Británicas,América Latina y Caribe,Alto,77.431,12.4,,,,,,,0.0,,
+VIR,Islas Vírgenes (EE.UU.),América Latina y Caribe,Alto,80.7707317073171,,,,,,,,,,9.1
+VNM,Viet Nam,Asia Oriental y Pacífico,Medio-alto,74.736,17.3,48.0,4.56109476,39.20284653,1.107,2.52,97.0,182.0,20.1,3.4
+VUT,Vanuatu,Asia Oriental y Pacífico,Medio-bajo,71.654,17.1,100.0,4.1186676,8.38081264,0.164,,71.0,44.0,36.8,19.7
+WSM,Samoa,Asia Oriental y Pacífico,Medio-alto,71.826,14.9,101.0,6.78103304,13.41968632,0.561,,85.0,5.5,32.3,25.4
+XKX,Kosovo,Europa y Asia Central,Medio-alto,78.222,8.7,,,,,,,,,10.4
+YEM,"Yemen, Rep. del","Medio Oriente, N. África, Afganistán y Pakistán",Bajo,69.439,38.1,118.0,9.69559193,69.12571716,0.098,0.46,42.0,40.0,25.8,5.5
+ZAF,Sudáfrica,África Subsahariana,Medio-alto,66.312,35.1,118.0,8.90966797,6.69263172,0.794,,74.0,389.0,22.7,7.2
+ZMB,Zambia,África Subsahariana,Medio-bajo,66.528,48.4,85.0,5.97841072,10.28683281,0.324,,91.0,272.0,23.6,10.3
+ZWE,Zimbabwe,África Subsahariana,Medio-bajo,63.064,64.7,358.0,2.92601609,10.63479233,0.136,,91.0,203.0,31.2,1.5
